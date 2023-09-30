@@ -1,0 +1,21 @@
+.sectionOrg {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titleOrg {
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    color: #ff0000;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #ff0000;
+}
+
+.imgOrg {
+    position: absolute;
+    left: calc(100% - 20%);
+    cursor: pointer;
+}

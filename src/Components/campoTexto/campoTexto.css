@@ -1,0 +1,18 @@
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 4px #d1d1d1, -2px -2px 4px #ffffff;
+    border: none;
+    outline-color: #ff0000;
+}

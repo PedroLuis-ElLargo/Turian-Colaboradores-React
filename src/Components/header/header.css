@@ -1,0 +1,38 @@
+.header{
+    background-color: rgb(242, 242, 242);
+    text-align: center;
+}
+.header h1{
+    font-size: 60px;
+    font-weight: bold;
+    position: absolute;
+    z-index: 1;
+    color: rgb(255, 0, 0);
+    text-shadow: 4px 4px 8px rgb(77, 77, 77);
+    text-align: center;
+
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.header .containerSlogan{
+    position: absolute;
+    z-index: 1;
+    color: rgb(0, 0, 0);
+    text-shadow: 2px 2px 1px rgb(255, 255, 255);
+    text-align: center;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-weight: bold;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    background-color: rgba(116, 116, 116, 0.416);
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px rgb(77, 77, 77);
+}
+.header img{
+    max-width: 100%;
+}
