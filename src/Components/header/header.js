@@ -6,7 +6,7 @@ const Header = () => {
         <div className="containerSlogan">
             <p>El cliente siempre tiene la razon por eso nuesta publicidad es efectiva</p>
         </div>
-        <img src="/Img/header.png" alt="Turian Header"/>
+        <img src="../Img/header.png" alt="Turian Header"/>
     </header>
 };
 
